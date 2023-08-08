@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
+//migration okeydir
 
 namespace InspectionAPI.Migrations
 {

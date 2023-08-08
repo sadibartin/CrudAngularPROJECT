@@ -14,8 +14,10 @@ namespace InspectionAPI
 
         public int InspectionTypeId { get; set; }
 
+
         public InspectionType? InspectionType { get; set;}
 
 
     }
 }
+//idler verildi

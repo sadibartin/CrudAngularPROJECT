@@ -4,6 +4,8 @@ namespace InspectionAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    //vardı zaten
+    
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]

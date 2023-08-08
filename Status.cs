@@ -10,3 +10,6 @@ namespace InspectionAPI
         public string StatusOption { get; set; } = string.Empty;
     }
 }
+
+
+//statuss

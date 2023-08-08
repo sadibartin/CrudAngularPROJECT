@@ -10,3 +10,7 @@ namespace InspectionAPI
         public string InspectionName { get; set; } = string.Empty;
     }
 }
+  //type
+  
+
+

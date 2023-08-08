@@ -7,6 +7,8 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
+//migrations 2 
+
 
 namespace InspectionAPI.Migrations
 {

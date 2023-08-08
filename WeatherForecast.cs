@@ -11,3 +11,8 @@ namespace InspectionAPI
         public string? Summary { get; set; }
     }
 }
+
+
+
+//wweather
+

@@ -6,6 +6,8 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
+//Aİ kullanıldı
+
 
 namespace InspectionAPI.Migrations
 {

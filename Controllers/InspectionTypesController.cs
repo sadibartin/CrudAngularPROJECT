@@ -21,7 +21,7 @@ namespace InspectionAPI.Controllers
             _context = context;
         }
 
-        // GET: api/InspectionTypes
+        // GET: api/InspectionTypes'
         [HttpGet]
         public async Task<ActionResult<IEnumerable<InspectionType>>> GetInspectionTypes()
         {
